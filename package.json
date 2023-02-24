@@ -1,0 +1,29 @@
+{
+  "name": "studio.lobsters-united.unity-x-state",
+  "version": "0.1.0",
+  "displayName": "UnityXState",
+  "description": "Declarative and modular Hierarchical Finite State Machine (HFSM) library for Unity",
+  "unity": "2021.1",
+  "documentationUrl": "https://github.com/nicktgn/unity-x-state",
+  "changelogUrl": "https://github.com/nicktgn/unity-x-state/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/nicktgn/unity-x-state/blob/main/LICENSE",
+  "keywords": [
+    "finite state machine",
+    "fsm",
+    "hierarchical finite state machine",
+    "hfsm",
+    "declarative",
+    "modular",
+    "scriptable objects",
+    "scriptable object variables",
+    "scriptable architecture"
+  ],
+  "author": {
+    "name": "Lobsters United",
+    "email": "nicktgn@gmail.com",
+    "url": "https://github.com/nicktgn"
+  },
+  "samples": [
+    
+  ]
+}

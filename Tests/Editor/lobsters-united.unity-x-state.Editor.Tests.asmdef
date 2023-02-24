@@ -1,0 +1,25 @@
+{
+    "name": "lobsters-united.unity-x-state.Editor.Tests",
+    "rootNamespace": "LobstersUnited.UnityXState.Editor.Tests",
+    "references": [
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:16a27fd0599084dcea7fb66f0066c857",
+        "GUID:5233c5f0421b428390fbe5f4ad90a962"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

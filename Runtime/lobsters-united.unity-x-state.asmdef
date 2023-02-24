@@ -1,0 +1,14 @@
+{
+    "name": "lobsters-united.unity-x-state",
+    "rootNamespace": "LobstersUnited.UnityXState",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
