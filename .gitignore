@@ -95,3 +95,8 @@ crashlytics-build.properties
 # CI
 .env
 test-results
+
+# Repo related meta files
+CHANGELOG.md.meta
+LICENSE.meta
+README.md.meta
